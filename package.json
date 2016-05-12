@@ -47,6 +47,6 @@
     "deep-equal": "^0.2.1",
     "lodash.isobject": "^3.0.2",
     "omit-keys": "^0.1.0",
-    "react-addons-update": "^0.14.2"
+    "react-addons-update": "^0.14.2 || ^15.0.2"
   }
 }
